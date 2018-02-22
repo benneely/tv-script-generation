@@ -1,0 +1,5 @@
+playground/
+.ipynb_checkpoints
+*copy
+.idea
+.DS_Store
